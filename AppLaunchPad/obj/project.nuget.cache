@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WPIq6X3UyQNLT15dFk0jc000EojItTWhaWrnowXni+j4PiSHc20tSseUYS1VsjAH+PYAGrs+CiwD09KXEV9BoQ==",
+  "dgSpecHash": "urKJbxMMsiG8CNUkO8+SNrdn+5nGXcal47FSryQqO/O4rukGQvOVLDk6PaqKnVnkkKHspOCD+PNZBBrYvNdvHA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rac35\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

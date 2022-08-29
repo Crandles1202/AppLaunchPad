@@ -1,0 +1,14 @@
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\bin\Debug\net6.0\Meals.cs
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\bin\Debug\net6.0\AppLaunchPad.Services.deps.json
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\bin\Debug\net6.0\AppLaunchPad.Services.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\bin\Debug\net6.0\AppLaunchPad.Services.pdb
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.csproj.AssemblyReference.cache
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.AssemblyInfoInputs.cache
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.AssemblyInfo.cs
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.csproj.CoreCompileInputs.cache
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\refint\AppLaunchPad.Services.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\AppLaunchPad.Services.pdb
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\obj\Debug\net6.0\ref\AppLaunchPad.Services.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad.Services\bin\Debug\net6.0\Models\MealsModel.cs

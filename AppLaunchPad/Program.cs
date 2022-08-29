@@ -1,7 +1,10 @@
+using AppLaunchPad.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IMeals, Meals>();
 
 var app = builder.Build();
 

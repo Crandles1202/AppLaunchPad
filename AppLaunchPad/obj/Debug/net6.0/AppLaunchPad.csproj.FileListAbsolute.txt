@@ -24,3 +24,10 @@ C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\obj\Debug\net6.0\refint\AppLa
 C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\obj\Debug\net6.0\AppLaunchPad.pdb
 C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\obj\Debug\net6.0\AppLaunchPad.genruntimeconfig.cache
 C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\obj\Debug\net6.0\ref\AppLaunchPad.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\Meals.cs
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\Controllers\HomeController.cs
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\AppLaunchPad.Services.dll
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\AppLaunchPad.Services.pdb
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\obj\Debug\net6.0\AppLaunchPad.csproj.CopyComplete
+C:\Projects\AppLaunchPad\AppLaunchPad\AppLaunchPad\bin\Debug\net6.0\Models\MealsModel.cs
