@@ -21,20 +21,20 @@ namespace AppLaunchPad.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Meals()
         {
-            _meals.printOutInt();
-            var MealsModel = new MealsModel
-            { 
-                mealsID = 1,
-                mealsDescription = "Mac & Cheese with Peas and Veggie Chicken Nuggets",
-                mealsProtien = "Veggie Chicken Nuggets",
-                mealsCarb = "Mac & Cheese",
-                mealsVeggie = "Peas",
-                mealsFat = "Butter"
-            };
+            var meal = _meals.GetMeals();
+            //var MealsModel = new MealsModel
+            //{ 
+            //    mealsID = 1,
+            //    mealsDescription = "Mac & Cheese with Peas and Veggie Chicken Nuggets",
+            //    mealsProtien = "Veggie Chicken Nuggets",
+            //    mealsCarb = "Mac & Cheese",
+            //    mealsVeggie = "Peas",
+            //    mealsFat = "Butter"
+            //};
 
-            return View(MealsModel);
+            return View(meal);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

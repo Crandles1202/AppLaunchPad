@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj": {}
+    "C:\\Projects\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj": {
+    "C:\\Projects\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj",
+        "projectUniqueName": "C:\\Projects\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj",
         "projectName": "AppLaunchPad.Services",
-        "projectPath": "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj",
+        "projectPath": "C:\\Projects\\AppLaunchPad\\AppLaunchPad.Services\\AppLaunchPad.Services.csproj",
         "packagesPath": "C:\\Users\\rac35\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AppLaunchPad\\AppLaunchPad\\AppLaunchPad.Services\\obj\\",
+        "outputPath": "C:\\Projects\\AppLaunchPad\\AppLaunchPad.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\rac35\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -43,9 +40,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
@@ -54,8 +63,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

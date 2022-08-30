@@ -1,0 +1,19 @@
+﻿@model AppLaunchPad.Models.MealsModel
+@{
+    ViewData["Title"] = "Meal Ideas";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h3>Meals for the week</h3>
+
+    <p>Meal Idea:  @Html.DisplayFor(item => item.mealsDescription)</p>
+    <p>Protien:    @Html.DisplayFor(item => item.mealsProtien)</p>
+    <p>Carb:       @Html.DisplayFor(item => item.mealsCarb)</p>
+    <p>Veggie:     @Html.DisplayFor(item => item.mealsVeggie)</p>
+    <p>Fat:        @Html.DisplayFor(item => item.mealsFat)</p>
+</div>
+
+
+
+
